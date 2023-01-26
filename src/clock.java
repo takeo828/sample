@@ -2,7 +2,7 @@
 public class clock {
 
     public static void main(String[] args) {
-        int seconds = getSeconds(18,32,47);
+        int seconds = getSeconds(17,32,47);
         System.out.println(seconds);
     }
 
